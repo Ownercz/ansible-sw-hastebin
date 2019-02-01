@@ -1,0 +1,5 @@
+---
+# defaults file for ansible-sw-hastebin
+
+hastebin_port: 7777
+hastebin_ip: 0.0.0.0
